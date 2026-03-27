@@ -1,0 +1,5 @@
+D:\Documents\2CS\S2\ALOG\TP01\calculator\src\td1\calculator\Main.java
+D:\Documents\2CS\S2\ALOG\TP01\calculator\src\td1\gui\CalculatorGUI.java
+D:\Documents\2CS\S2\ALOG\TP01\calculator\src\td1\service\CalculatorService.java
+D:\Documents\2CS\S2\ALOG\TP01\calculator\src\td1\service\Operation.java
+D:\Documents\2CS\S2\ALOG\TP01\calculator\src\td1\trace\CalculatorTrace.java

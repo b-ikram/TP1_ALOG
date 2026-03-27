@@ -1,0 +1,7 @@
+D:\Documents\2CS\S2\ALOG\TP01\interpreter-lib\src\td1\interpreter\core\Evaluator.java
+D:\Documents\2CS\S2\ALOG\TP01\interpreter-lib\src\td1\interpreter\core\Expression.java
+D:\Documents\2CS\S2\ALOG\TP01\interpreter-lib\src\td1\interpreter\nonterminal\Factoriel.java
+D:\Documents\2CS\S2\ALOG\TP01\interpreter-lib\src\td1\interpreter\nonterminal\Multiply.java
+D:\Documents\2CS\S2\ALOG\TP01\interpreter-lib\src\td1\interpreter\nonterminal\Plus.java
+D:\Documents\2CS\S2\ALOG\TP01\interpreter-lib\src\td1\interpreter\terminal\Number.java
+D:\Documents\2CS\S2\ALOG\TP01\interpreter-lib\src\td1\interpreter\terminal\Variable.java
