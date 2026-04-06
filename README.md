@@ -2,6 +2,13 @@
 
 Ce projet porte sur la conception architecturale d'une calculatrice extensible utilisant le **Design Pattern Interpreter**. Il est divisé en deux modules principaux pour assurer une haute cohésion et un faible couplage.
 
+
+ ## Students
+
+- **Chattah Salsabila** — ms_chattah@esi.dz
+- **Badaoui Ikram** — mi_badaoui@esi.dz
+
+
 ## Architecture du Système
 
 L'application repose sur deux piliers majeurs :
@@ -25,8 +32,3 @@ L'application repose sur deux piliers majeurs :
 │   └── src/td1/          # Implémentation du Pattern Interpreter
 └── build/                # Fichiers compilés
 
-
- ## Students
-
-- **Chattah Salsabila** — ms_chattah@esi.dz
-- **Badaoui Ikram** — mi_badaoui@esi.dz
