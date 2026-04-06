@@ -24,3 +24,9 @@ L'application repose sur deux piliers majeurs :
 ├── interpreter-lib/      # Bibliothèque d'interprétation
 │   └── src/td1/          # Implémentation du Pattern Interpreter
 └── build/                # Fichiers compilés
+
+
+ ## Students
+
+- **Chattah Salsabila** — ms_chattah@esi.dz
+- **Badaoui Ikram** — mi_badaoui@esi.dz
